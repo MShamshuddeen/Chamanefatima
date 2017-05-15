@@ -8,6 +8,7 @@ body{
 }
 .main-div{
     width:  1600px;
+    float: left;
 }
 .header-main{
 
@@ -16,7 +17,7 @@ body{
 }
 .header-wrapper1{
     height: 50px;
-    background-color: #191919;
+    background-color: #6f6bc0;
 }
 .hw-div1{
     width: 500px;
@@ -30,10 +31,37 @@ body{
 .logo-main{
     height: 90px;
     margin-left: 30px;
-    margin-top: 10px;
+    
 }
- a{
+ .hw-div2 a{
     text-decoration:  none;
+    color: #d16094;
+    font-size: 25px;
+    font-family:  'Times New Roman', Times, serif;
 }
+.hw-div2 a:hover{
+     color: #6f6bc0;
+     text-decoration: underline;
+     text-decoration-color: #d16094;
+    
+   
+}
+.hw-div2 ul{
+    list-style-type:none;
+    
+}
+.hw-div2 ul li{
+    display: inline;
+}
+.hw-div2 li{
+   float: left;
+   padding:  10px;
+   margin-top: 20px;
+   margin-left: 10px;
+   
+}
+
+
+
 
 
