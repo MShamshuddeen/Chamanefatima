@@ -12,7 +12,7 @@ body{
 }
 .header-main{
 
-    height:  150px;
+    height:  750px;
 
 }
 .header-wrapper1{
@@ -41,6 +41,7 @@ body{
 }
 .hw-div2 a:hover{
      color: #6f6bc0;
+     
      text-decoration: underline;
      text-decoration-color: #d16094;
     
@@ -60,6 +61,63 @@ body{
    margin-left: 10px;
    
 }
+.header-wrapper3{
+    height: 600px;
+   background-image: url("../images/quran.jpg");
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.hw3-content1{
+    height: 100px;
+
+}
+.hw3-content2{
+    height: 400px;
+   
+}
+.hw3con2-div{
+    background-color: #6f6bc0;
+    opacity: 0.8;
+    width: 800px;
+   height: 100%;
+}
+.quotes1{
+color: #fff;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 55px;
+padding-left: 35px;
+padding-top: 60px;
+margin-bottom: 0px;
+}
+.quotes2{
+
+margin-top: 13px;
+color: #fff;
+font-weight: bold;
+font-family:  "Palatino Linotype", "Book Antiqua", Palatino, serif;
+font-size: 35px;
+float: right;
+margin-right: 15px;
+
+}
+
+
+.content-wrapper{
+    height: 1000px;
+}
+.cw-section1{
+    height: 500px;
+    background-color: #6f6bc0;
+}
+
+
+
 
 
 
