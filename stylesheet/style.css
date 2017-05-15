@@ -110,10 +110,50 @@ margin-right: 15px;
 
 .content-wrapper{
     height: 1000px;
+   
 }
 .cw-section1{
     height: 500px;
-    background-color: #6f6bc0;
+    margin-top: 0px;
+    
+    
+}
+.cw-sec-content{
+    height: 100px;
+    text-align: center;
+   margin: 0px;
+   
+   
+}
+.cw-sec-content p{
+font-size: 45px;
+ margin-top: 30px;
+ color: #d16094;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+.cw-sec-content2{
+
+    height: 400px;
+}
+.whatweoffers{
+height: 400px;
+width: 280px;
+float: left;
+margin-left: 25px;
+text-align: center;
+box-shadow: 3px 3px 13px -3px grey;
+border-left: 5px solid #d16094;
+
+}
+.whatweoffers img{
+    margin-top: 30px;
+    filter: drop-shadow(0px 4px 4px grey);
+
+}
+.whatweoffers p{
+    font-size: 30px;
+    color : #d16094;
 }
 
 
