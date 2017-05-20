@@ -113,7 +113,7 @@ margin-right: 15px;
 
 
 .content-wrapper{
-    min-height: 1000px;
+    min-height: 700px;
    
 }
 .cw-section1{
@@ -427,7 +427,7 @@ border-right:  5px solid #d16094;
 .cw-sec-content-improve{
 
     text-align: left;
-    padding: 30px;
+
     margin-left: 30px;
     
 }
@@ -435,6 +435,7 @@ border-right:  5px solid #d16094;
     font-family:  urdufont;
     font-size: 55px;
 }
+
 
 
 
