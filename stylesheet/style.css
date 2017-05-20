@@ -113,7 +113,7 @@ margin-right: 15px;
 
 
 .content-wrapper{
-    min-height: 700px;
+    min-height: 1000px;
    
 }
 .cw-section1{
@@ -253,7 +253,7 @@ border-left: 5px solid #d16094; */
 
 }
 .cwsec-content2{
-    height: 400px;
+    min-height: 400px;
    
     
 }
