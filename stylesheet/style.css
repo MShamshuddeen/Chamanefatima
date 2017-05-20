@@ -16,7 +16,7 @@ body{
 }
 .header-main{
 
-    height:  750px;
+    min-height:  150px;
 
 }
 .header-wrapper1{
@@ -113,7 +113,7 @@ margin-right: 15px;
 
 
 .content-wrapper{
-    min-height: 500px;
+    min-height: 700px;
    
 }
 .cw-section1{
