@@ -441,6 +441,29 @@ border: 7px solid white;
 
 }
 
+/* homepage responsive code  start */
+/*@media  only screen and (min-width: 320px) {
+
+    .main-div{
+        min-width: 320px;
+    }
+    .header-main{
+
+        min-width: 320px;
+    }
+    .header-wrapper1{
+        
+        height: 100px;
+
+    }
+    .header-wrapper1 p{
+        font-size: 30px;
+    }
+   
+}*/
+/* homepage responsive code  end */
+
+
 
 /* homepage done here */
 
